@@ -7,7 +7,7 @@ This project was build and run with
 - npm@6.4.1
 - expo-cli@2.4.0
 
-For testing and development, a **IOS device** is used as **Android device** does not support qr code scanner in expo. 
+For testing and development, a **IOS device** is used, as **Android device** does not support qr code scanner in expo. 
 
 ### Installation
 
