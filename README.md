@@ -18,7 +18,9 @@ $ npm install -g expo-cli
 ```
 
 The expo app is needed to run the expo project.
-Download the EXPO app on the AppStore.
+Download the [EXPO](https://itunes.apple.com/us/app/expo-client/id982107779?mt=8) app on the AppStore.
+
+
 
 ### To run the project
 
